@@ -67,9 +67,6 @@
 				echo esc_html($altar_copyright_text) . ' | ';
 			}
 			?>
-			<?php
-			printf( esc_html__( 'Theme: %1$s by %2$s.', 'altar' ), 'Altar', '<a href=" https://www.worksheetsbuddy.com/printable-worksheets-cbse/ ">Printable Worksheets</a>' );
-			?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
